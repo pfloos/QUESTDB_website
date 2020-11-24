@@ -3,39 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>http://lcpq.github.io/QUESTDB_website/about/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>http://lcpq.github.io/QUESTDB_website/categories/</loc>
   </url>
   
   <url>
-    <loc>/dataset/</loc>
+    <loc>http://lcpq.github.io/QUESTDB_website/dataset/</loc>
   </url>
   
   <url>
-    <loc>/funding/</loc>
+    <loc>http://lcpq.github.io/QUESTDB_website/funding/</loc>
   </url>
   
   <url>
-    <loc>/publications/</loc>
+    <loc>http://lcpq.github.io/QUESTDB_website/publications/</loc>
   </url>
   
   <url>
-    <loc>/subsets/</loc>
+    <loc>http://lcpq.github.io/QUESTDB_website/subsets/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://lcpq.github.io/QUESTDB_website/tags/</loc>
   </url>
   
   <url>
-    <loc>/view/</loc>
+    <loc>http://lcpq.github.io/QUESTDB_website/view/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>http://lcpq.github.io/QUESTDB_website/</loc>
   </url>
   
 </urlset>
