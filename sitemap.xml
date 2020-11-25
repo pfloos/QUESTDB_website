@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lcpq.github.io/QUESTDB_website/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://lcpq.github.io/QUESTDB_website/categories/</loc>
   </url>
   
@@ -15,11 +11,7 @@
   </url>
   
   <url>
-    <loc>https://lcpq.github.io/QUESTDB_website/funding/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lcpq.github.io/QUESTDB_website/publications/</loc>
+    <loc>https://lcpq.github.io/QUESTDB_website/references/</loc>
   </url>
   
   <url>
